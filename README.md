@@ -1,1 +1,3 @@
-Please find the Motion Illusion in Static Scene (MISS) Dataset using the link - https://drive.google.com/drive/folders/1FmKX-NMR2Gas8r4coNCGTUJu8CkkpXOj?usp=sharing
+The dataset is divided into 2 sections: 1) Color 2) Grayscale
+
+Each dataset is further divided into training, testing, and validation each containing image data for both Motion and Non-Motion.
